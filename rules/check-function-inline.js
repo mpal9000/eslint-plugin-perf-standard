@@ -34,7 +34,7 @@ module.exports.schema = [{
     'type': 'object',
     'properties': {
         'maxCharacters': {
-            'type': 'string'
+            'type': 'number'
         }
     },
     'additionalProperties': false
